@@ -22,7 +22,8 @@ export default function RootLayout({
 }
 
 // TODO list:
-// https://prettier.io/docs/en/install.html#eslint-and-other-linters
-// https://prettier.io/docs/en/install.html#git-hooks
-// README.md
-// LICENSE.txt
+// 1. strict
+// 2. npx eslint-config-prettier
+// 3. stylelint
+// 4. stylelint-config-prettier
+// 5. self made stuff
