@@ -22,8 +22,9 @@ export default function RootLayout({
 }
 
 // TODO list:
-// 1. strict
-// 2. npx eslint-config-prettier
-// 3. stylelint
-// 4. stylelint-config-prettier
-// 5. self made stuff
+// 1. package.json metadata
+// 2. strict
+// 3. npx eslint-config-prettier
+// 4. stylelint
+// 5. stylelint-config-prettier
+// 6. self made stuff
