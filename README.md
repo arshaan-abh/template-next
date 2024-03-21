@@ -9,6 +9,8 @@ This project is a template for kickstarting Next.js applications with TypeScript
 - **Next.js**: A open-source web development framework for building full-stack Web applications.
 - **TypeScript**: A superset of JavaScript that adds static types to the language.
 - **Tailwind CSS**: A utility-first CSS framework that makes it easy to create responsive and visually consistent designs.
+- **Shadcn/ui**: Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
+- **Iconify**: All popular icon sets, one framework. Over 200,000 open source vector icons.
 - **Prettier**: An opinionated code formatter that enforces a consistent coding style.
 - **PostCSS**: A tool for transforming styles with JavaScript plugins.
 - **prettier-plugin-tailwindcss**: A Prettier plugin for sorting Tailwind CSS classes.
