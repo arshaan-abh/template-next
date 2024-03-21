@@ -19,8 +19,9 @@
       }
     ],
     "paths": {
-      "@src/*": ["./src/*"]
-    }
+      "@/*": ["./src/*"]
+    },
+    "types": ["unplugin-icons/types/react"]
   },
   "include": [
     "next-env.d.ts",
