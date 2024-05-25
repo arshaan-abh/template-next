@@ -1,6 +1,6 @@
 /* eslint-disable @typescript-eslint/no-unsafe-call, @typescript-eslint/no-unsafe-member-access, @typescript-eslint/no-var-requires, @typescript-eslint/no-unsafe-return */
 /** @type {import('next').NextConfig} */
-const nextConfig = {
+module.exports = {
   reactStrictMode: true,
   webpack(config) {
     config.plugins.push(
@@ -12,5 +12,3 @@ const nextConfig = {
     return config;
   },
 };
-
-module.exports = nextConfig;
